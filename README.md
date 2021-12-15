@@ -1,4 +1,10 @@
-# Calculadora
+# Calculadora  
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o85xFdBA27p6TJWgM/giphy.gif" style="width: 65%;">
+</p>
+
 
 
 
@@ -35,3 +41,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/B4tY9lKwn94zvmPYV5/giphy.gif" style="width: 65%;">
 </p>
+
+    
+    
+    
