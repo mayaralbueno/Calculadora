@@ -10,7 +10,7 @@
 
 
 
-<h2  align="center"> 👨‍💻  Tecnologias  :<h2>
+<h2  align="center"> 👨‍💻  Tecnologias  <h2>
 <br>
 <table align="center" style=" width: 60%" >
   <tr>
